@@ -1,0 +1,14 @@
+body {
+  font-family: helvetica, sans-serif;
+  font-size: 1rem;
+}
+
+.content {
+  background-color: #eee;
+  padding: 1em;
+  font-size: 0.8em;
+}
+
+form {
+  
+}
