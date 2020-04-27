@@ -10,5 +10,8 @@ body {
 }
 
 form {
-  
+}
+
+#result {
+  margin-bottom: 5px;
 }

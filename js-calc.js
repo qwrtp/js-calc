@@ -33,7 +33,7 @@ function calc(event) {
   }
 
   // Display result
-  document.querySelector("#result").innerHTML = result;
-  console.log("electron moving handiwork by Bernard Cribbins");
+  document.querySelector("#result").value = result;
+  console.log("electron recycling by Bernard Cribbins");
 
 }
